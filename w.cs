@@ -4,6 +4,6 @@ public class w
 {
     public static void Main(string[] args)
     {
-
+       Console.WriteLine ("nice hook");
     }
 }
